@@ -117,7 +117,7 @@ export default function Page3() {
             letterSpacing: '0.55em', textTransform: 'uppercase',
             color: 'rgba(201,123,160,0.55)', marginBottom: 24,
           }}>
-            12 Mars 2005 — 20 ans
+            12 Mars 2007 — 19 ans
           </p>
           <h1 style={{
             fontFamily: "'Cormorant Garamond', Georgia, serif",
